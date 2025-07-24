@@ -1,8 +1,8 @@
 #Dataset Description
 
-#1.Selection of 50 MRI datasets with visible lesions.
+#1.Selection of 36 groups MRI with visible lesions.
 
-#2.The first 48 datasets are used for training, and the final 2 are used for testing.
+#2.The first 34 groups are used for training, and the final 2 are used for testing.
 
 #3.Annotated datasets are sliced along the vertical axis, converting the original MRI scans and their corresponding lesion annotations into layer-by-layer images.
 
